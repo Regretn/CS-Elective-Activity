@@ -1,0 +1,36 @@
+.Head {
+    width: 40%;
+    background-color: rgb(158, 125, 75);
+    text-align: center;
+    left: 30%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.Start {
+    bottom: 15px;
+    max-width: 300px;
+    background-color: rgb(246, 188, 102);
+}
+
+.End {
+    width: 1500px;
+    height: 350px;
+    background-color: rgb(247, 159, 104);
+}
+
+.End1 {
+    width: 250px;
+    height: 150px;
+    background-color: rgb(252, 169, 96);
+}
+
+legend {
+    background-color: rgba(159, 95, 46, 0.822);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(63, 38, 7);
+}

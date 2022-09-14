@@ -1,0 +1,72 @@
+.Head {
+    width: 600px;
+    max-width: ;
+    background-color: rgb(158, 125, 75);
+    text-align: center;
+    color: rgb(13, 40, 63);
+    margin: 0px 0px 0px 600px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10%;
+    margin-left: 480px;
+}
+
+body {
+    background-color: antiquewhite;
+    font-size: 20px;
+}
+
+.image {
+    border-radius: 50%;
+}
+
+.Start {
+    bottom: 15px;
+    max-width: 300px;
+    background-color: rgb(190, 166, 130);
+    border-radius: 5%;
+    border: solid;
+    margin: 0px 0px 0px 600px;
+    border-color: rgb(63, 42, 16);
+}
+
+.StartLegend {
+    margin-left: 15%;
+}
+
+.End {
+    width: 1000px;
+    height: 350px;
+    background-color: rgb(247, 159, 104);
+    border-radius: 5%;
+    border: solid;
+    margin: 0px 0px 0px 150px;
+    padding: 50px 50px 40px 90px;
+    border-color: rgb(63, 42, 16);
+}
+
+.EndLegend {
+    margin-left: 45%;
+}
+
+.End1 {
+    width: 250px;
+    border: solid;
+    height: 150px;
+    background-color: rgb(252, 169, 96);
+    border-radius: 5%;
+    margin: 0px 0px 0px 570px;
+    border-color: rgb(63, 42, 16);
+}
+
+.fieldbod {
+    background-color: rgb(134, 72, 37);
+    border-radius: 5%;
+}
+
+legend {
+    background-color: rgba(159, 95, 46, 0.822);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(63, 38, 7);
+    border-radius: 5%;
+}
